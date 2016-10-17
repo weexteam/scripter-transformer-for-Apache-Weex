@@ -6,8 +6,8 @@
 
 [npm-image]: https://img.shields.io/npm/v/weex-scripter.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/weex-scripter
-[circle-image]: https://circleci.com/gh/alibaba/weex_toolchain.svg?style=svg
-[circle-url]: https://circleci.com/gh/alibaba/weex_toolchain/tree/master
+[circle-image]: https://circleci.com/gh/weexteam/weex-scripter.svg?style=svg
+[circle-url]: https://circleci.com/gh/weexteam/weex-scripter/tree/master
 [downloads-image]: https://img.shields.io/npm/dm/weex-scripter.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/weex-scripter
 
